@@ -1,0 +1,544 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="BAND">
+    <display-name lang="pt">BAND</display-name>
+    <icon src="http://www.lineup.tv.br/canais/band.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="GLOBO RJ">
+    <display-name lang="pt">GLOBO RJ</display-name>
+    <icon src="http://www.lineup.tv.br/canais/globo-rj.gif|http://www.lineup.tv.br/canais/globo.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="GLOBO SP">
+    <display-name lang="pt">GLOBO SP</display-name>
+    <icon src="http://www.lineup.tv.br/canais/globo-sp.gif|http://www.lineup.tv.br/canais/globo.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <programme start="20180612002500 -0300" stop="20180612005500 -0300" channel="BAND">
+    <title lang="pt">Band Eleições</title>
+    <desc lang="pt">Entrevistas, reportagens e debates. Uma fonte de informações para ajudar o eleitor a escolher quem é o melhor candidato à prefeitura da sua cidade(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Política</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180612005500 -0300" stop="20180612014500 -0300" channel="BAND">
+    <title lang="pt">Jornal da Noite</title>
+    <desc lang="pt">Um resumo de tudo que aconteceu de relevante durante o dia, no Brasil e no Mundo. Analises, entrevistas e matérias especiais aprofundam os temas mais importantes(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180612014500 -0300" stop="20180612015000 -0300" channel="BAND">
+    <title lang="pt">Que Fim Levou? - Boletim</title>
+    <desc lang="pt">A memória esportiva brasileira sendo resgatada(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180612015000 -0300" stop="20180612023000 -0300" channel="BAND">
+    <title lang="pt">Os Simpsons</title>
+    <desc lang="pt">Cotidiano da família de Homer Simpson em uma sátira ácida e politicamente incorreta ao estilo de vida americano(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180612023000 -0300" stop="20180612030000 -0300" channel="BAND">
+    <title lang="pt">Vídeos Incríveis</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180612030000 -0300" stop="20180612060000 -0300" channel="BAND">
+    <title lang="pt">Igreja Universal</title>
+    <desc lang="pt">Informações aos fieis(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180612060000 -0300" stop="20180612070000 -0300" channel="BAND">
+    <title lang="pt">Jornal Bandnews</title>
+    <desc lang="pt">As principais noticias da hora com a equipe do canal especializado em jornalismo, 24 horas por dia(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20180612070000 -0300" stop="20180612080000 -0300" channel="BAND">
+    <title lang="pt">Café com Jornal</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180612080000 -0300" stop="20180612083000 -0300" channel="BAND">
+    <title lang="pt">Café com Jornal - Edição Brasil</title>
+    <desc lang="pt">Muita prestação de serviço e a participação do público, interagindo com a equipe do noticioso(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180612083000 -0300" stop="20180612085000 -0300" channel="BAND">
+    <title lang="pt">Sempre Bem</title>
+    <desc lang="pt">Informações sobre saúde, bem-estar, beleza e comportamento(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Saúde</category>
+  </programme>
+  <programme start="20180612085000 -0300" stop="20180612095000 -0300" channel="BAND">
+    <title lang="pt">Cozinha do Bork</title>
+    <desc lang="pt">O tradicional programa culinário das manhãs em novo ciclo: renovado, atualizado e repleto de novas receitas. Todas testadas e aprovadas(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Culinária</category>
+  </programme>
+  <programme start="20180612095000 -0300" stop="20180612110000 -0300" channel="BAND">
+    <title lang="pt">Superpoderosas</title>
+    <desc lang="pt">Um programa que conecta TV e Internet com soluções para simplificar a vida das mulheres, ensinando a encarar os desafios do dia a dia. Estimulando o autoconhecimento, autoestima e mentalidade empreendedora(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180612110000 -0300" stop="20180612123000 -0300" channel="BAND">
+    <title lang="pt">Jogo Aberto</title>
+    <desc lang="pt">As principais notícias do futebol e um debate diário com jornalistas e esportistas sobre o que tem rolado de mais quente no futebol do Brasil e do mundo e nos demais esportes populares(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180612123000 -0300" stop="20180612130000 -0300" channel="BAND">
+    <title lang="pt">Jogo Aberto - Debate</title>
+    <desc lang="pt">Depois do noticiário é hora de debater as novidades. O programa reúne jornalistas e esportistas para falar sobre o que tem rolado de mais quente no futebol do Brasil e do mundo e nos demais esportes populares(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180612130000 -0300" stop="20180612140000 -0300" channel="BAND">
+    <title lang="pt">Os Donos da Bola</title>
+    <desc lang="pt">Programa de debate sobre futebol comandado pelo craque Neto e que conta com a presença de convidados especiais(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180612140000 -0300" stop="20180612150000 -0300" channel="BAND">
+    <title lang="pt">Melhor da Tarde com Catia Fonseca</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180612150000 -0300" stop="20180612160000 -0300" channel="BAND">
+    <title lang="pt">Melhor da Tarde com Catia Fonseca</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180612160000 -0300" stop="20180612185000 -0300" channel="BAND">
+    <title lang="pt">Brasil Urgente</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180612185000 -0300" stop="20180612192000 -0300" channel="BAND">
+    <title lang="pt">Brasil Urgente SP</title>
+    <desc lang="pt">Sempre ao lado do povo, o programa traz os principais acontecimentos do dia com prioridade para os temas do cotidiano de cada cidadão. O foco é a segurança, a saúde, o trabalho, a mobilidade, o comportamento(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180612192000 -0300" stop="20180612202500 -0300" channel="BAND">
+    <title lang="pt">Jornal da Band</title>
+    <desc lang="pt">Os principais fatos no Brasil e no Mundo relatados com imparcialidade e profundidade(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180612202500 -0300" stop="20180612211000 -0300" channel="BAND">
+    <title lang="pt">Amor Proibido E151</title>
+    <desc lang="pt">O estado de saúde de Besir piora e ele é levado para o hospital. Nesrin avisa Katya que Firdevs e Bihter planejam mandar ela para outro país(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country>Turquia</country>
+  </programme>
+  <programme start="20180612211000 -0300" stop="20180612220200 -0300" channel="BAND">
+    <title lang="pt">Igreja da Graça</title>
+    <desc lang="pt">Programa Religioso(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20180612220200 -0300" stop="20180612220500 -0300" channel="BAND">
+    <title lang="pt">Agenda dos Pastores</title>
+    <desc lang="pt">Programa Religioso(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20180612220500 -0300" stop="20180612223000 -0300" channel="BAND">
+    <title lang="pt">Vídeonews</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20180612223000 -0300" stop="20180613003000 -0300" channel="BAND">
+    <title lang="pt">Masterchef</title>
+    <desc lang="pt">Ana Paula Padrão apresenta o maior reality de culinária do mundo, que revela os novos talentos da cozinha brasileira(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180612004900 -0300" stop="20180612012800 -0300" channel="GLOBO RJ">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180612012800 -0300" stop="20180612021100 -0300" channel="GLOBO RJ">
+    <title lang="pt">Conversa com Bial</title>
+    <desc lang="pt">O 'Conversa com Bial' vai reunir, em um só lugar, assuntos que possam ser relevantes ao espectador independentemente da forma como eles serão apresentados(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Talk Show</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180612021100 -0300" stop="20180612025700 -0300" channel="GLOBO RJ">
+    <title lang="pt">Ponto Cego</title>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180612025700 -0300" stop="20180612041000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Corujão: Na Mira da Morte</title>
+    <desc lang="pt">Uma bailarina russa é perseguida pela máfia depois que seu marido americano é morto. Depois do sumiço de alguns documentos importantes, ela é acusada e presa por policiais corruptos(n)</desc>
+    <date>2012</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Suspense</category>
+    <country>EUA/Rússia</country>
+  </programme>
+  <programme start="20180612041000 -0300" stop="20180612050000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Lendas do Amanhã</title>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180612050000 -0300" stop="20180612060000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Hora Um</title>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Monalisa Perrone(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180612060000 -0300" stop="20180612073000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Bom Dia Rio</title>
+    <desc lang="pt">Telejornal que traz as notíciais locais, mostrando o que acontece na sua região, com prestação de serviço, boletins de trânsito e a previsão do tempo(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180612073000 -0300" stop="20180612085000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">Chico Pinheiro e Ana Paula Araújo apresentam as primeiras notícias do dia no Brasil e no mundo e repercutem os fatos mais relevantes(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180612085000 -0300" stop="20180612101000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Mais Você</title>
+    <desc lang="pt">Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180612101000 -0300" stop="20180612105000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Bem Estar</title>
+    <desc lang="pt">Veja informações sobre saúde e qualidade de vida. Apresentado por Mariana Ferrão e Fernando Rocha, o programa tem participação de médicos e de especialistas(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Saúde</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180612105000 -0300" stop="20180612120000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+    <desc lang="pt">A apresentadora Fátima Bernardes comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão(n)</desc>
+    <date>2012</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Debate</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180612120000 -0300" stop="20180612124700 -0300" channel="GLOBO RJ">
+    <title lang="pt">RJ1</title>
+    <desc lang="pt">O telejornal, apresentado por Mariana Gross, exibe as principais notícias do Rio, com prestação de serviço e previsão do tempo(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20180612124700 -0300" stop="20180612132000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">O Globo Esporte atualiza o noticiário esportivo do dia com os destaques do Brasil e do mundo(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180612132000 -0300" stop="20180612140500 -0300" channel="GLOBO RJ">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Sandra Annenberg e Dony De Nuccio(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180612140500 -0300" stop="20180612150700 -0300" channel="GLOBO RJ">
+    <title lang="pt">Vídeo Show</title>
+    <desc lang="pt">Confira os bastidores da televisão brasileira e as principais notícias sobre o mundo dos astros e das estrelas da Globo(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180612150700 -0300" stop="20180612164600 -0300" channel="GLOBO RJ">
+    <title lang="pt">Sessão da Tarde</title>
+    <desc lang="pt">A atração estreou em 1981 e apresenta longas-metragens de sucesso, em sua maioria de apelo infanto-juvenil(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Cinema</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180612164600 -0300" stop="20180612175200 -0300" channel="GLOBO RJ">
+    <title lang="pt">Vale a Pena Ver de Novo: Belíssima E7</title>
+    <desc lang="pt">Katina exige que Murat não peça mais dinheiro ao genro, Takae. Maria João gosta quando Pascoal diz que ela é melhor que Giovana. Valdete espera André perto da fábrica para ameaçá-lo(n)</desc>
+    <date>2005</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180612175200 -0300" stop="20180612182800 -0300" channel="GLOBO RJ">
+    <title lang="pt">Malhação: Vidas Brasileiras E69</title>
+    <desc lang="pt">Gabriela fala com Eliane sobre Pérola e é solidária à mãe de Ana. Talíssia se incomoda com o pedido de Jeremias e Vinícius apoia a namorada(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180612182800 -0300" stop="20180612191300 -0300" channel="GLOBO RJ">
+    <title lang="pt">Orgulho e Paixão E73</title>
+    <desc lang="pt">Darcy e Elisabeta se amam. Fani é hostil com Edmundo. Cecília conta para Ema sobre o envolvimento entre Edmundo e Fani. Elisabeta conta para Darcy que foi demitida do jornal. Edmundo descobre o que Fani fez contra Cecília(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180612191300 -0300" stop="20180612193400 -0300" channel="GLOBO RJ">
+    <title lang="pt">RJ2</title>
+    <desc lang="pt">Telejornal que traz as notícias locais, mostrando o que acontece na sua região, com prestação de serviço, boletins de trânsito e a previsão do tempo(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20180612193400 -0300" stop="20180612203000 -0300" channel="GLOBO RJ">
+    <title lang="pt">Deus Salve o Rei E133</title>
+    <desc lang="pt">Afonso avisa que Catarina só será coroada após esclarecimento sobre o desaparecimento do rei Augusto. Tiago ajuda Selena a descobrir que Ísis é a responsável pelos cartazes(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180612203000 -0300" stop="20180612212400 -0300" channel="GLOBO RJ">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180612212400 -0300" stop="20180612222800 -0300" channel="GLOBO RJ">
+    <title lang="pt">Segundo Sol E26</title>
+    <desc lang="pt">Ícaro rejeita Laureta, que volta enfurecida para casa. Luzia e Beto/Miguel se amam. Manuela confessa a Acácio que não quer que Ícaro fique com Rosa. Rosa apoia que Nice trabalhe fora e aconselha Maura a se entender com Selma(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180612222800 -0300" stop="20180612231900 -0300" channel="GLOBO RJ">
+    <title lang="pt">Mister Brau</title>
+    <desc lang="pt">A nova temporada de Mister Brau mostrará Brau e Michelle em novas confusões(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180612231900 -0300" stop="20180613000500 -0300" channel="GLOBO RJ">
+    <title lang="pt">Onde Nascem os Fortes E30</title>
+    <desc lang="pt">O juiz passa mal e é levado para hospital. Aurora revela o que Plínio lhe fez. Pedro afirma a Hermano que não será preso. Plínio insiste em ser empresário de Ramirinho(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180612005000 -0300" stop="20180612013000 -0300" channel="GLOBO SP">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180612013000 -0300" stop="20180612021000 -0300" channel="GLOBO SP">
+    <title lang="pt">Conversa com Bial</title>
+    <desc lang="pt">O 'Conversa com Bial' vai reunir, em um só lugar, assuntos que possam ser relevantes ao espectador independentemente da forma como eles serão apresentados(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Talk Show</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180612021000 -0300" stop="20180612025500 -0300" channel="GLOBO SP">
+    <title lang="pt">Ponto Cego</title>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180612025500 -0300" stop="20180612041000 -0300" channel="GLOBO SP">
+    <title lang="pt">Corujão: Na Mira da Morte</title>
+    <desc lang="pt">Uma bailarina russa é perseguida pela máfia depois que seu marido americano é morto. Depois do sumiço de alguns documentos importantes, ela é acusada e presa por policiais corruptos(n)</desc>
+    <date>2012</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Suspense</category>
+    <country>EUA/Rússia</country>
+  </programme>
+  <programme start="20180612041000 -0300" stop="20180612050000 -0300" channel="GLOBO SP">
+    <title lang="pt">Lendas do Amanhã</title>
+    <date>2016</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180612050000 -0300" stop="20180612060000 -0300" channel="GLOBO SP">
+    <title lang="pt">Hora Um</title>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Monalisa Perrone(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180612060000 -0300" stop="20180612073000 -0300" channel="GLOBO SP">
+    <title lang="pt">Bom Dia São Paulo</title>
+    <desc lang="pt">O telejornal traz as primeiras notícias do dia no seu estado, com entrevistas, acontecimentos, previsão do tempo, trânsito e resultados da última rodada esportiva entre outras informações(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180612073000 -0300" stop="20180612085000 -0300" channel="GLOBO SP">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">Chico Pinheiro e Ana Paula Araújo apresentam as primeiras notícias do dia no Brasil e no mundo e repercutem os fatos mais relevantes(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180612085000 -0300" stop="20180612101000 -0300" channel="GLOBO SP">
+    <title lang="pt">Mais Você</title>
+    <desc lang="pt">Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180612101000 -0300" stop="20180612105000 -0300" channel="GLOBO SP">
+    <title lang="pt">Bem Estar</title>
+    <desc lang="pt">Veja informações sobre saúde e qualidade de vida. Apresentado por Mariana Ferrão e Fernando Rocha, o programa tem participação de médicos e de especialistas(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Saúde</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180612105000 -0300" stop="20180612120000 -0300" channel="GLOBO SP">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+    <desc lang="pt">A apresentadora Fátima Bernardes comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão(n)</desc>
+    <date>2012</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Debate</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180612120000 -0300" stop="20180612124700 -0300" channel="GLOBO SP">
+    <title lang="pt">SP1</title>
+    <desc lang="pt">César Tralli mostra o que acontece na sua região, com prestação de serviço, boletins de trânsito e a previsão do tempo(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20180612124700 -0300" stop="20180612132000 -0300" channel="GLOBO SP">
+    <title lang="pt">Globo Esporte</title>
+    <desc lang="pt">O Globo Esporte atualiza o noticiário esportivo do dia com os destaques do Brasil e do mundo(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180612132000 -0300" stop="20180612140500 -0300" channel="GLOBO SP">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Sandra Annenberg e Dony De Nuccio(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180612140500 -0300" stop="20180612150700 -0300" channel="GLOBO SP">
+    <title lang="pt">Vídeo Show</title>
+    <desc lang="pt">Confira os bastidores da televisão brasileira e as principais notícias sobre o mundo dos astros e das estrelas da Globo(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180612150700 -0300" stop="20180612164600 -0300" channel="GLOBO SP">
+    <title lang="pt">Sessão da Tarde</title>
+    <desc lang="pt">A atração estreou em 1981 e apresenta longas-metragens de sucesso, em sua maioria de apelo infanto-juvenil(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Cinema</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180612164600 -0300" stop="20180612175200 -0300" channel="GLOBO SP">
+    <title lang="pt">Vale a Pena Ver de Novo: Belíssima E7</title>
+    <desc lang="pt">Katina exige que Murat não peça mais dinheiro ao genro, Takae. Maria João gosta quando Pascoal diz que ela é melhor que Giovana. Valdete espera André perto da fábrica para ameaçá-lo(n)</desc>
+    <date>2005</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180612175200 -0300" stop="20180612182800 -0300" channel="GLOBO SP">
+    <title lang="pt">Malhação: Vidas Brasileiras E69</title>
+    <desc lang="pt">Gabriela fala com Eliane sobre Pérola e é solidária à mãe de Ana. Talíssia se incomoda com o pedido de Jeremias e Vinícius apoia a namorada(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180612182800 -0300" stop="20180612191300 -0300" channel="GLOBO SP">
+    <title lang="pt">Orgulho e Paixão E73</title>
+    <desc lang="pt">Darcy e Elisabeta se amam. Fani é hostil com Edmundo. Cecília conta para Ema sobre o envolvimento entre Edmundo e Fani. Elisabeta conta para Darcy que foi demitida do jornal. Edmundo descobre o que Fani fez contra Cecília(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180612191300 -0300" stop="20180612193400 -0300" channel="GLOBO SP">
+    <title lang="pt">SP2</title>
+    <desc lang="pt">Telejornal que traz as notícias locais, mostrando o que acontece na sua região, com prestação de serviço, boletins de trânsito e a previsão do tempo(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20180612193400 -0300" stop="20180612203000 -0300" channel="GLOBO SP">
+    <title lang="pt">Deus Salve o Rei E133</title>
+    <desc lang="pt">Afonso avisa que Catarina só será coroada após esclarecimento sobre o desaparecimento do rei Augusto. Tiago ajuda Selena a descobrir que Ísis é a responsável pelos cartazes(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180612203000 -0300" stop="20180612212400 -0300" channel="GLOBO SP">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180612212400 -0300" stop="20180612222800 -0300" channel="GLOBO SP">
+    <title lang="pt">Segundo Sol E26</title>
+    <desc lang="pt">Ícaro rejeita Laureta, que volta enfurecida para casa. Luzia e Beto/Miguel se amam. Manuela confessa a Acácio que não quer que Ícaro fique com Rosa. Rosa apoia que Nice trabalhe fora e aconselha Maura a se entender com Selma(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180612222800 -0300" stop="20180612231900 -0300" channel="GLOBO SP">
+    <title lang="pt">Mister Brau</title>
+    <desc lang="pt">A nova temporada de Mister Brau mostrará Brau e Michelle em novas confusões(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180612231900 -0300" stop="20180613000500 -0300" channel="GLOBO SP">
+    <title lang="pt">Onde Nascem os Fortes E30</title>
+    <desc lang="pt">O juiz passa mal e é levado para hospital. Aurora revela o que Plínio lhe fez. Pedro afirma a Hermano que não será preso. Plínio insiste em ser empresário de Ramirinho(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <country>Brasil</country>
+  </programme>
+</tv>
